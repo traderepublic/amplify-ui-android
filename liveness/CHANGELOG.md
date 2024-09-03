@@ -1,3 +1,10 @@
+## [Release 1.3.0](https://github.com/traderepublic/amplify-ui-android/releases/tag/release_liveness_v1.3.0)
+
+### Bug Fixes
+- **liveness:** Catch unhandled exceptions in coordinator ([#141](https://github.com/traderepublic/amplify-ui-android/issues/141))
+
+[See all changes between 1.2.5 and 1.3.0](https://github.com/traderepublic/amplify-ui-android/compare/release_liveness_v1.2.5...release_liveness_v1.3.0)
+
 ## [Release 1.2.6](https://github.com/aws-amplify/amplify-ui-android/releases/tag/release_liveness_v1.2.6)
 
 ## Bug Fixes
